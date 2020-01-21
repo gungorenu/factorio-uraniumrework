@@ -3,6 +3,8 @@ require("prototypes.recipes")
 
 -- icon changes
 data.raw.item["uranium-238"].icon = "__UraniumRework__/graphics/icons/uranium-depleted.png"
+data.raw.item["uranium-238"].icon_size = 32
+
 
 -- uranium processing updates
 data.raw.recipe["uranium-processing"].results =

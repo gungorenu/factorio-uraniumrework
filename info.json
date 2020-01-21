@@ -1,11 +1,11 @@
 {
   "name": "UraniumRework",
-  "version": "1.0.0",
-  "factorio_version": "0.17",
+  "version": "1.0.1",
+  "factorio_version": "0.18",
   "title": "UraniumRework",
   "author": "UgurG",
   "contact": "",
   "homepage": "",
   "description": "Changes uranium processing, adds some complexity to the processing and makes some use of the sub products",
-  "dependencies": ["base >= 0.17.0"]
+  "dependencies": ["base >= 0.18.0"]
 }
