@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "factorio_version": "0.18",
   "title": "UraniumRework",
-  "author": "UgurG",
+  "author": "gungorenu",
   "contact": "",
   "homepage": "",
-  "description": "Changes uranium processing, adds some complexity to the processing and makes some use of the sub products",
+  "description": "Changes uranium processing, adds some complexity to the processing",
   "dependencies": ["base >= 0.18.0"]
 }

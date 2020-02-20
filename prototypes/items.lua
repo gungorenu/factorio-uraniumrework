@@ -7,7 +7,7 @@ data:extend(
     icon = "__UraniumRework__/graphics/icons/uranium-waste-cell.png",
     icon_size = 32,
     subgroup = "intermediate-product",
-    order = "wc[uranium-waste-cell]",
+    order = "wc[uraniumrework-uranium-waste-cell]",
     stack_size = 1
   },
   {
@@ -16,7 +16,7 @@ data:extend(
     icon = "__UraniumRework__/graphics/icons/uranium-waste-container.png",
     icon_size = 32,
     subgroup = "intermediate-product",
-    order = "wo[uranium-waste-container]",
+    order = "wo[uraniumrework-uranium-waste-container]",
     stack_size = 1,
     rocket_launch_product = {"raw-fish", 1}
   },
